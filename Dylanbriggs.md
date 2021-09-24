@@ -19,5 +19,10 @@ I am _passionate about_:
  <https://www.floridapoly.edu>
 
 ***
-
-> Last modified: 2021/07/07
+|**Prefix**|**Number**|             _Name_               |credits|
+|:---------|:--------:|:--------------------------------:|------:|
+|   MAC    |   1147   |          Pre-Calculus            |   4   | 
+|   COP    |   2073   |     Intro to Data science        |   3   |
+|   COP    |   2034   |         Intro to Python          |   3   |
+|   CTS    |   2375   |      Cloud Infrastructure        |   3   |
+|   SLS    |   1901   | Foundations for academic success |   0 \||
